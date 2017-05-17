@@ -444,6 +444,7 @@ a.navbar-brand span {
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
 	-moz-transition: -moz-transform 0.3s, opacity 0.3s;
 	transition: transform 0.3s, opacity 0.3s;
+	width: 80px;
 }
 
 .cl-effect-15 a:hover::before,
